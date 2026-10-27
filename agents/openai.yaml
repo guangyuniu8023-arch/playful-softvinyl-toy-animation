@@ -1,0 +1,4 @@
+interface:
+  display_name: "萌趣软胶玩具动画"
+  short_description: "生成萌、呆、木讷且古怪亲和的软胶玩具图像与动画提示词"
+  default_prompt: "使用 $playful-softvinyl-toy-animation 将我的文字或参考图转换为萌趣软胶玩具动画。"
